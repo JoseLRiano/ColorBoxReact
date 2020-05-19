@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ColorBoxReact/static/css/main.be134679.chunk.css",
+    "main.js": "/ColorBoxReact/static/js/main.0bd361b6.chunk.js",
+    "main.js.map": "/ColorBoxReact/static/js/main.0bd361b6.chunk.js.map",
+    "runtime-main.js": "/ColorBoxReact/static/js/runtime-main.4949140e.js",
+    "runtime-main.js.map": "/ColorBoxReact/static/js/runtime-main.4949140e.js.map",
+    "static/js/2.27e25d7c.chunk.js": "/ColorBoxReact/static/js/2.27e25d7c.chunk.js",
+    "static/js/2.27e25d7c.chunk.js.map": "/ColorBoxReact/static/js/2.27e25d7c.chunk.js.map",
+    "index.html": "/ColorBoxReact/index.html",
+    "precache-manifest.fda86efc4e3dc54ca73e7d72be301c04.js": "/ColorBoxReact/precache-manifest.fda86efc4e3dc54ca73e7d72be301c04.js",
+    "service-worker.js": "/ColorBoxReact/service-worker.js",
+    "static/css/main.be134679.chunk.css.map": "/ColorBoxReact/static/css/main.be134679.chunk.css.map",
+    "static/js/2.27e25d7c.chunk.js.LICENSE.txt": "/ColorBoxReact/static/js/2.27e25d7c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4949140e.js",
+    "static/js/2.27e25d7c.chunk.js",
+    "static/css/main.be134679.chunk.css",
+    "static/js/main.0bd361b6.chunk.js"
+  ]
+}
